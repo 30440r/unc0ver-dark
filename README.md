@@ -1,21 +1,14 @@
 
-[![Build Status](https://travis-ci.com/nqcshady/unc0ver-dark.svg?branch=master)](https://travis-ci.com/nqcshady/unc0ver-dark)
-<center>
-  <a href="" align="center"><img src="https://raw.githubusercontent.com/sukarodo/sukarodo.github.io/master/assets/main/u0%20Logo.png"></a>
-  <br>
-  <h1 align="center">unc0ver dark (EOL)</h1>
-  <h3 align="center">The most advanced jailbreak tool, with more freedom</h3>
+<br>
+  <h1 align="center">the first iOS 15 jailbreak</h1>
+  <h3 align="center">seriously.</h3>
   <p align="center">
     <img src="https://diatr.us/img/dv.gif" alt="Darth Vader Dancing">
   </p>
 </center>
 
 ### FAQ
-* Will the jailbreak see an update to 12.4? -- No. unc0ver has remained closed source for a while now, and the project is now dead. Please use Diatrus' Sileo for unc0ver as an alternative from now on.
-* Where can I stay up to date on unc0ver dark? -- [Join the unc0ver dark Discord](https://discord.gg/4pYwBCb)
-* My Cydia is crashing? How do I fix this? -- Uninstall CyDown. It is not updated for the new fork of Cydia. Also, piracy is no fun. ;(
-* Jailbreak is failing first try? -- You need WiFi for initial jailbreak, and therefore cannot use Airplane Mode. This is due to licensing on Cydia Substrate. 
-* How do I switch from another jailbreak? -- unc0ver dark automatically handles the switching process. So no need to worry about switching. No rootFS restore is required.
+* is this real? yes!.
 
 ### Changes from unc0ver
 * APT 1.8
